@@ -11,6 +11,7 @@
 5. Envie seu pull request :D
 
 ## Documentação
+[:octocat: **OpenShift Docs**](https://github.com/openshift/openshift-docs): OpenShift é um produto de software de computador da Red Hat para implantação e gerenciamento de softwares baseados em container (em inglês).
 
 ## Tradução
 
