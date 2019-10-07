@@ -16,6 +16,12 @@
 
 ## Aprendizado
 
+**Lista de filmes como emoji:** https://github.com/brittanyrw/emojiscreen
+
+**Lista de livro como emoji:** https://github.com/brittanyrw/emojipages
+
+**Lista de musicas como emoji**: https://github.com/brittanyrw/emojibops
+
 ## Desenvolvimento
 
 [:octocat: **Ifman**](https://github.com/wirecardBrasil/ifman): Interface WEB para o Curtain, utilizado para gerenciar toogle-features
