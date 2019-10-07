@@ -1,6 +1,6 @@
 # Lista de repositórios amigos do hacktoberfest :P 
 
-[:octocat: **up for grabs**](https://up-for-grabs.net/#/):Site que filtra primeiras issues: 
+[:octocat: **up for grabs**](https://up-for-grabs.net/#/): Site que filtra primeiras issues: 
 
 ## Documentação
 
