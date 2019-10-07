@@ -18,8 +18,8 @@
 
 ## Desenvolvimento
 
-[:octocat: **Ifman**](https://github.com/wirecardBrasil/ifman)
+[:octocat: **Ifman**](https://github.com/wirecardBrasil/ifman): Interface WEB para o Curtain, utilizado para gerenciar toogle-features
 
-[:octocat: **rcurtain**](https://github.com/wirecardBrasil/rcurtain)
+[:octocat: **rcurtain**](https://github.com/wirecardBrasil/rcurtain): Biblioteca desenvolvida para controlar as toogle-features em Ruby
 
-[:octocat: **jcurtain**](https://github.com/wirecardBrasil/jcurtain)
+[:octocat: **jcurtain**](https://github.com/wirecardBrasil/jcurtain): Biblioteca desenvolvida para controlar as toogle-features em Java
