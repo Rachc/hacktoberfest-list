@@ -1,21 +1,21 @@
 # Lista de repositórios amigos do hacktoberfest :P 
 
-**Site que filtra primeiras issues:** https://up-for-grabs.net/#/
+[:octocat: **up for grabs**](https://up-for-grabs.net/#/):Site que filtra primeiras issues: 
 
 ## Documentação
 
 ## Tradução
 
 ## Primeiros PR
-**Lista de ótimos primeiros PR**: https://github.com/MunGell/awesome-for-beginners
+[:octocat: **Awesome-for-beginners**](https://github.com/MunGell/awesome-for-beginners): Lista de ótimos primeiros PR
 
 ## Aprendizado
 
-**Lista de filmes como emoji:** https://github.com/brittanyrw/emojiscreen
+[:octocat: **emojiscreen**](https://github.com/brittanyrw/emojiscreen): Lista de filmes como emoji
 
-**Lista de livro como emoji:** https://github.com/brittanyrw/emojipages
+[:octocat: **emojipages**](https://github.com/brittanyrw/emojipages): Lista de livro como emoji
 
-**Lista de musicas como emoji**: https://github.com/brittanyrw/emojibops
+[:octocat: **emojibops**](https://github.com/brittanyrw/emojibops): Lista de musicas como emoji
 
 ## Desenvolvimento
 
@@ -32,3 +32,6 @@
 3. Commit suas mudanças: git commit -am 'Adicionando contribuição top'
 4. Push para o branch: git push origin contribuicao-topzera
 5. Envie seu pull request :D
+
+# Contribuintes
+[Rachel Curioso](https://github.com/Rachc)
