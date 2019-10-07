@@ -1,8 +1,9 @@
 # Lista de repositórios amigos do hacktoberfest :P 
 
-[:octocat: **up for grabs**](https://up-for-grabs.net/#/): Site que filtra primeiras issues: 
+[:octocat: **up for grabs**](https://up-for-grabs.net/#/): Site que filtra primeiras issues
 
 ## Documentação
+[:octocat: **OpenShift Docs**](https://github.com/openshift/openshift-docs): OpenShift é um produto de software de computador da Red Hat para implantação e gerenciamento de softwares baseados em container (em inglês).
 
 ## Tradução
 
@@ -35,3 +36,4 @@
 
 # Contribuintes
 [Rachel Curioso](https://github.com/Rachc)
+[Henrique Eihara](https://github.com/eiguike)
