@@ -1,6 +1,6 @@
 # Lista de repositórios amigos do hacktoberfest :P 
 
-[:octocat: **up for grabs**](https://up-for-grabs.net/#/): Site que filtra primeiras issues
+[:computer: **up for grabs**](https://up-for-grabs.net/#/): Site que filtra primeiras issues
 
 ## Documentação
 [:octocat: **OpenShift Docs**](https://github.com/openshift/openshift-docs): OpenShift é um produto de software de computador da Red Hat para implantação e gerenciamento de softwares baseados em container (em inglês).
@@ -25,6 +25,9 @@
 [:octocat: **rcurtain**](https://github.com/wirecardBrasil/rcurtain): Biblioteca desenvolvida para controlar as toogle-features em Ruby
 
 [:octocat: **jcurtain**](https://github.com/wirecardBrasil/jcurtain): Biblioteca desenvolvida para controlar as toogle-features em Java
+
+## Outros
+[:octocat: **Codamos**](https://github.com/codamos/codamos.github.io): Cadastro de eventos inclusivos.
 
 # Como contribuir:
 
