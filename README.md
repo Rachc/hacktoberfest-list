@@ -10,6 +10,8 @@
 ## Primeiros PR
 [:octocat: **Awesome-for-beginners**](https://github.com/MunGell/awesome-for-beginners): Lista de ótimos primeiros PR
 
+[:octocat: **Projetos brasileiros no hacktoberfest**](https://github.com/jtemporal/jtemporal.github.io): Post de blog com referências de projetos brasileiros open source.
+
 ## Aprendizado
 
 [:octocat: **emojiscreen**](https://github.com/brittanyrw/emojiscreen): Lista de filmes como emoji
