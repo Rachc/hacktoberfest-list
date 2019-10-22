@@ -51,4 +51,4 @@
 
 [Henrique Eihara](https://github.com/eiguike)
 
-[Juliana Myaki] (https://github.com/myakiju)
+[Juliana Myaki](https://github.com/myakiju)
