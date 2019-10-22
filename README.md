@@ -21,6 +21,9 @@
 
 [:octocat: **emojibops**](https://github.com/brittanyrw/emojibops): Lista de musicas como emoji
 
+[:octocat: **design-patterns**](https://github.com/ZoranPandovski/design-patterns): Implemente um design pattern na linguagem que preferir
+
+
 ## Desenvolvimento
 
 [:octocat: **Ifman**](https://github.com/wirecardBrasil/ifman): Interface WEB para o Curtain, utilizado para gerenciar toogle-features
@@ -44,3 +47,5 @@
 [Rachel Curioso](https://github.com/Rachc)
 
 [Henrique Eihara](https://github.com/eiguike)
+
+[Juliana Myaki] (https://github.com/myakiju)
