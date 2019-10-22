@@ -22,6 +22,9 @@
 
 [:octocat: **al-go-rithms**](https://github.com/ZoranPandovski/al-go-rithms): Algoritmos escritos em diversas linguagens
 
+[:octocat: **design-patterns**](https://github.com/ZoranPandovski/design-patterns): Implemente um design pattern na linguagem que preferir
+
+
 
 ## Desenvolvimento
 
@@ -46,3 +49,5 @@
 [Rachel Curioso](https://github.com/Rachc)
 
 [Henrique Eihara](https://github.com/eiguike)
+
+[Juliana Myaki] (https://github.com/myakiju)
