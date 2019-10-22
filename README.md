@@ -6,6 +6,7 @@
 [:octocat: **OpenShift Docs**](https://github.com/openshift/openshift-docs): OpenShift é um produto de software de computador da Red Hat para implantação e gerenciamento de softwares baseados em container (em inglês).
 
 ## Tradução
+[:octocat: **Learn go with tests**](https://github.com/larien/learn-go-with-tests): Tradução do livro "Aprenda Go com testes"
 
 ## Primeiros PR
 [:octocat: **Awesome-for-beginners**](https://github.com/MunGell/awesome-for-beginners): Lista de ótimos primeiros PR
