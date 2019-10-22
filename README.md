@@ -20,6 +20,9 @@
 
 [:octocat: **emojibops**](https://github.com/brittanyrw/emojibops): Lista de musicas como emoji
 
+[:octocat: **al-go-rithms**](https://github.com/ZoranPandovski/al-go-rithms): Algoritmos escritos em diversas linguagens
+
+
 ## Desenvolvimento
 
 [:octocat: **Ifman**](https://github.com/wirecardBrasil/ifman): Interface WEB para o Curtain, utilizado para gerenciar toogle-features
