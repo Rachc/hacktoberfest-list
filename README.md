@@ -21,7 +21,10 @@
 
 [:octocat: **emojibops**](https://github.com/brittanyrw/emojibops): Lista de musicas como emoji
 
+[:octocat: **al-go-rithms**](https://github.com/ZoranPandovski/al-go-rithms): Algoritmos escritos em diversas linguagens
+
 [:octocat: **design-patterns**](https://github.com/ZoranPandovski/design-patterns): Implemente um design pattern na linguagem que preferir
+
 
 
 ## Desenvolvimento
