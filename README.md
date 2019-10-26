@@ -25,6 +25,7 @@
 
 [:octocat: **design-patterns**](https://github.com/ZoranPandovski/design-patterns): Implemente um design pattern na linguagem que preferir
 
+[:octocat: **color-themes**](https://github.com/12vanblart/color-themes): Crie uma paleta de cores
 
 
 ## Desenvolvimento
